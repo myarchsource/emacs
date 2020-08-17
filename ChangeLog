@@ -1,0 +1,33 @@
+2020-08-10  Nicolas Petton  <nico@petton.fr>
+
+	* Version 27.1 released.
+
+2020-08-04  Nicolas Petton  <nicolas@petton.fr>
+
+	* etc/HISTORY: Update the Emacs 27.1 release date.
+
+This file records repository revisions from
+commit 1ca4da054be7eb340c511d817f3ec89c8b819db7 (exclusive) to
+commit a6634197dac0ce0863e5d017bccc3af32764288a (inclusive).
+See ChangeLog.3 for earlier changes.
+
+;; Local Variables:
+;; coding: utf-8
+;; End:
+
+  Copyright (C) 2020 Free Software Foundation, Inc.
+
+  This file is part of GNU Emacs.
+
+  GNU Emacs is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  GNU Emacs is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with GNU Emacs.  If not, see <https://www.gnu.org/licenses/>.
